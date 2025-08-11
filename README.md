@@ -92,6 +92,9 @@ This project is divided into two main parts:
 streamlit run app.py
 
 
+![image alt](https://github.com/Matikerevanth/House-Price-Prediction/blob/4aaaed1cc413ab926cf9a0f916a53c883b9d30a1/Screenshot%202025-08-11%20224933.png)
+
+
    
      
      
